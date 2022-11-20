@@ -3,6 +3,7 @@ import './index.css';
 import Calculator from './main/Calculator';
 import reportWebVitals from './reportWebVitals';
 import ReactCli from 'react-dom/client'
+// import registererviceWorer from './registerServiceWorker';
 
 const root = ReactCli.createRoot(document.getElementById('root'));
 
